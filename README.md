@@ -22,7 +22,7 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 - HTML5 
 - CSS3 
 - Sass
-- Javascript
+- JavaScript
 - Git
 - GitHub
 
