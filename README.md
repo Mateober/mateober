@@ -5,8 +5,8 @@ Soy Desarrollador Frontend de Argentina. Siempre estoy investigando, aprendiendo
 ## Skill set:
 
 <p align="left">
-<img src="./assets/html5.svg" height="auto" width="70">
-<img src="./assets/css3.svg" height="auto" width="70">
+<img src="./assets/html.svg" height="auto" width="70">
+<img src="./assets/css.svg" height="auto" width="70">
 <img src="./assets/sass.svg" height="auto" width="70">
 <img src="./assets/javascript.svg" height="auto" width="70">
 <img src="./assets/react.svg" height="auto" width="70">
