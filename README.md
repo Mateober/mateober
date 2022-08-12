@@ -1,6 +1,6 @@
-# Hola 👋 Soy Mateo Bertello!
+# Hi 👋 Soy Mateo Bertello!
  
-Soy Desarrollador Frontend de Argentina. Siempre estoy investigando, aprendiendo y perfeccionando mis conocimientos. Estoy buscando mi primera experiencia laboral formal para crecer como profesional.
+I am a Frontend Developer from Argentina. I am always researching, learning and perfecting my knowledge. I am looking for my first formal work experience to grow as a professional.
 
 ## Skill set:
 
@@ -14,11 +14,11 @@ Soy Desarrollador Frontend de Argentina. Siempre estoy investigando, aprendiendo
 <img src="./assets/github.svg" height="auto" width="70">
 </p>
 
-### 💻 Siempre estoy trabajando en:
+### 💻 I'm always working on:
 
 - Perfeccionar mis conocimientos
 
-### 🧠Conocimientos:
+### 🧠 Skills:
 - HTML5 
 - CSS3
 - Sass
@@ -26,23 +26,22 @@ Soy Desarrollador Frontend de Argentina. Siempre estoy investigando, aprendiendo
 - Git
 - GitHub
 
-### 🌱 Actualmente estoy aprendiendo:
+### 🌱 I'm currently learning:
 
 - React Js
 
-### 📚 Quiero aprender:
+### 📚 I want to learn:
 - React Native
 - TypeScript
 - SQL
 
 ### 😃 Hobbies:
 
-- Pasar tiempo de calidad con mi familia 💕​
-- Jugar Videojuegos 🎮​
-- Mirar películas y series 🍿
+- Spending quality time with my family💕​
+- Playing Video Games🎮​
+- Watch movies and series🍿
 
-### 📌 Contactarme en:
+### 📌 Contact me at:
 
 - https://www.linkedin.com/in/mateo-bertello/
 - mateo.bertello@gmail.com
-
