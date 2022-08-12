@@ -26,22 +26,22 @@ Soy Desarrollador Frontend de Argentina. Siempre estoy investigando, aprendiendo
 - Git
 - GitHub
 
-### 🌱🤓 Actualmente estoy aprendiendo:
+### 🌱 Actualmente estoy aprendiendo:
 
 - React Js
 
-### 📚🤔 Quiero aprender:
+### 📚 Quiero aprender:
 - React Native
 - TypeScript
 - SQL
 
-### 😃😁😎 Hobbies:
+### 😃 Hobbies:
 
 - Pasar tiempo de calidad con mi familia 💕​
 - Jugar Videojuegos 🎮​
 - Mirar películas y series 🍿
 
-### 📍📌 Contactarme en:
+### 📌 Contactarme en:
 
 - https://www.linkedin.com/in/mateo-bertello/
 - mateo.bertello@gmail.com
