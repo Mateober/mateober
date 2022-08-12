@@ -16,7 +16,7 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 
 ### 💻 I'm always working on:
 
-- Improve my skills
+- Improving my skills
 
 ### 🧠 Skills:
 - HTML5 
