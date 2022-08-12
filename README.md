@@ -14,7 +14,7 @@ Soy Desarrollador Frontend de Argentina. Siempre estoy investigando, aprendiendo
 <img src="./assets/github.svg" height="auto" width="40">
 </p>
 
-### :technologist:💻🖥️ Siempre estoy trabajando en:
+### 💻 Siempre estoy trabajando en:
 
 - Perfeccionar mis conocimientos
 
