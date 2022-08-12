@@ -19,9 +19,7 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 - Improving my skills
 
 ### 🧠 Skills:
-- HTML5 
-- CSS3
-- Sass
+- HTML5 - CSS3- Sass
 - Javascript
 - Git
 - GitHub
