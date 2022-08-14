@@ -42,4 +42,17 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 -  <a href="https://www.linkedin.com/in/mateo-bertello/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-- e-mail: mateo.bertello@gmail.com
+  - e-mail: mateo.bertello@gmail.com
+  - <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateober&label=Profile%20views&color=0e75b6&style=flat" alt="mateober" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateober" alt="mateober" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateober&show_icons=true&locale=en&layout=compact" alt="mateober" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateober&show_icons=true&locale=en" alt="mateober" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateober&" alt="mateober" /></p>
