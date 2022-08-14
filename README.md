@@ -39,7 +39,8 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 - Watch movies and series🍿
 
 ### 📌 Contact me at:
--  <a href="https://www.linkedin.com/in/mateo-bertello/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-- e-mail: mateo.bertello@gmail.com 
+- e-mail: mateo.bertello@gmail.com
+- <a href="https://www.linkedin.com/in/mateo-bertello/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateober&label=Profile%20views&color=0e75b6&style=flat" alt="mateober" /> </p> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateober&show_icons=true&locale=en&layout=compact" alt="mateober" /></p> -->
