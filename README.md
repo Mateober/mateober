@@ -15,7 +15,6 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 </p>
 
 ### 💻 I'm always working on:
-
 - Improving my skills
 
 ### 🧠 Skills:
@@ -27,7 +26,6 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 - GitHub
 
 ### 🌱 I'm currently learning:
-
 - React Js
 
 ### 📚 I want to learn:
@@ -36,12 +34,10 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 - SQL
 
 ### 😃 Hobbies:
-
 - Spending quality time with my family💕​
 - Playing Video Games🎮​
 - Watch movies and series🍿
 
 ### 📌 Contact me at:
-
 - Linkedin: https://www.linkedin.com/in/mateo-bertello/
 - e-mail: mateo.bertello@gmail.com
