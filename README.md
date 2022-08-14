@@ -43,5 +43,5 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 
 ### 📌 Contact me at:
 
-- https://www.linkedin.com/in/mateo-bertello/
-- mateo.bertello@gmail.com
+- Linkedin: https://www.linkedin.com/in/mateo-bertello/
+- e-mail: mateo.bertello@gmail.com
