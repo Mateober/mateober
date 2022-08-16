@@ -17,14 +17,6 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 ### 💻 I'm always working on:
 - Improving my skills
 
-<!--### 🧠 Skills:
-- HTML5 
-- CSS3 
-- Sass
-- JavaScript
-- Git
-- GitHub --!>
-
 ### 🌱 I'm currently learning:
 - React Js
 
