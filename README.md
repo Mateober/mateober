@@ -21,8 +21,8 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 - React Js
 
 ### 📚 I want to learn:
-- React Native
 - TypeScript
+- React Native
 - SQL
 <!-- ### 😃 Hobbies:
 - Spending quality time with my family💕​
