@@ -23,7 +23,6 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 ### 📚 I want to learn:
 - TypeScript
 - SQL
-- React Native
 <!-- ### 😃 Hobbies:
 - Spending quality time with my family💕​
 - Playing Video Games🎮​
