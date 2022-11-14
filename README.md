@@ -17,9 +17,6 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
 ### 💻 I'm always working on:
 - Improving my skills
 
-// ### 🌱 I'm currently learning:
-// - SQL
-
 ### 📚 I want to learn:
 - TypeScript
 <!-- ### 😃 Hobbies:
