@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Mateo Bertello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<img src="./assets/banner.png" height="auto" width="auto">
 I am a Frontend Developer from Argentina. I am always researching, learning and perfecting my knowledge. I am looking for my first formal work experience to grow as a professional.
 
 ## Skill set:
