@@ -73,9 +73,8 @@ I'm a **Full-Stack Developer** focused on **frontend** and based in **Rosario, A
 
 ### 📬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateob.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/mateob.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateob.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mateo-bertello/)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mateober)
 [![Portfolio](https://img.shields.io/badge/portfolio-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Mateober)
-[![Resume](https://img.shields.io/badge/resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Mateober)
-...
+[![Resume](https://img.shields.io/badge/resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Mateober/tu-repo/blob/main/assets/CV-Mateo-Bertello.pdf)
