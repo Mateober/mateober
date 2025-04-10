@@ -12,7 +12,7 @@ I'm a **Full-Stack Developer** focused on **frontend** and based in **Rosario, A
 
 - 🧠 **Self-taught**, detail-oriented, and responsible.
 - 🚀 Love turning ideas into clean, pixel-perfect interfaces.
-- 🛠️ Working with **React, Astro, Node.js**, and more.
+- 🛠️ Working with **React, Astro, JavaScript, Sass, Node.js, Sequelize, PostgreSQL, Redis**, and more.
 
 ---
 
