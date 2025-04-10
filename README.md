@@ -46,13 +46,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateober&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Contact us
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
+<a href="mailto:mateob.dev@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/linkedin%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/mateo-bertello/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) alt=github style="margin-bottom: 5px;" />
   
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+<a href="https://github.com/Mateober" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 
