@@ -46,13 +46,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateober&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Contact us
-<a href="mailto:mateob.dev@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
-<a href="https://www.linkedin.com/in/mateo-bertello/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) alt=github style="margin-bottom: 5px;" />
-  
-<a href="https://github.com/Mateober" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateob.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mateo-bertello/)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mateober)
+[![Portfolio](https://img.shields.io/badge/portfolio-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Mateober)
+[![Resume](https://img.shields.io/badge/resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Mateober)
+
+
+
 
 
