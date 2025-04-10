@@ -19,7 +19,7 @@ I'm a **Full-Stack Developer** focused on **frontend** and based in **Rosario, A
 ### 🏆 Featured Project
 
 **[Futbolar](https://futbolar.com.ar)** – A social platform with real-time forums for football fans.  
-✅ 200+ users • Built entirely by me using React, Node, WebSockets, and PostgreSQL.
+✅ 200+ users • Built entirely by me using React, JavaScript, Node, Socket.IO, PostgreSQL, Redis and more.
 
 ---
 
