@@ -9,7 +9,7 @@
 
 🧠 I'm self-taught, responsible, and detail-oriented. I like to deeply understand what needs to be done and find the most effective way to get it done. I'm a fast learner and highly adaptable.
 
-🚀 My featured project is "Futbolar", a social platform with real-time forums for football fans. It has over 200 registered users and was fully developed by me. Link: https://futbolar.com.ar
+🚀 My featured project is "Futbolar", a social platform with real-time forums for football fans. It has over 200 registered users and was fully developed by me. See it in action: https://futbolar.com.ar
 
 🌱 My goal is to keep growing as a developer, join challenging teams, and contribute to products that make a real impact. I'm especially interested in UI design, web performance, and frontend architecture, and I'm always open to exploring new technologies and creative approaches.
 
