@@ -42,8 +42,17 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </span>
 
-### 📌 Contact me at:
-- e-mail: mateo.bertello@gmail.com
-- <a href="https://www.linkedin.com/in/mateo-bertello/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateober&label=Profile%20views&color=0e75b6&style=flat" alt="mateober" /> </p> -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateober&show_icons=true&locale=en&layout=compact" alt="mateober" /></p> -->
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateober&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Contact us
+<a href="mailto:ossinsight@pingcap.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+<img src=https://img.shields.io/badge/linkedin%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  
+<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+
