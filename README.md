@@ -63,14 +63,13 @@ I'm a **Full-Stack Developer** focused on **frontend** and based in **Rosario, A
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateober&theme=dark&hide_border=false&layout=compact)
 
 ---
-
-### 🌱 Currently Learning
+<!--### 🌱 Currently Learning
 
 - UI/UX design principles
 - Advanced frontend architecture
 - Performance optimization
 
----
+----->
 
 ### 📬 Contact Me
 
