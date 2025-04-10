@@ -13,6 +13,8 @@
 
 🌱 My goal is to keep growing as a developer, join challenging teams, and contribute to products that make a real impact. I'm especially interested in UI design, web performance, and frontend architecture, and I'm always open to exploring new technologies and creative approaches.
 
+# 🧠 Skills:
+
 <h4> Frontend Technologies</h4>
 <span> 
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -42,10 +44,10 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </span>
 
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateober&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Contact us
+# 🌐 Contact me
 
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateob.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mateo-bertello/)
