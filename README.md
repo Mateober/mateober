@@ -1,6 +1,17 @@
 <h1>Hi , I'm Mateo Bertello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="./assets/banner.png" height="100%" width="100%">
-I am a Frontend Developer from Argentina. I am always researching, learning and perfecting my knowledge. I am looking for my first formal work experience to grow as a professional.
+
+👋 Hi! I'm Mateo Bertello, a full-stack developer with a strong focus on frontend. I'm based in Rosario, Santa Fe, Argentina, and I'm passionate about building websites that are functional, intuitive, and well-structured.
+
+🎯 I specialize in turning ideas and mockups into pixel-perfect websites, paying close attention to detail to achieve clean, cohesive, and efficient results.
+
+💻 I work with modern technologies like JavaScript, React, Astro, and Sass, and I have a solid backend foundation using Node.js, Sequelize, PostgreSQL, and Redis.
+
+🧠 I'm self-taught, responsible, and detail-oriented. I like to deeply understand what needs to be done and find the most effective way to get it done. I'm a fast learner and highly adaptable.
+
+🚀 My featured project is "Futbolar", a social platform with real-time forums for football fans. It has over 200 registered users and was fully developed by me.
+
+🌱 My goal is to keep growing as a developer, join challenging teams, and contribute to products that make a real impact. I'm especially interested in UI design, web performance, and frontend architecture, and I'm always open to exploring new technologies and creative approaches.
 
 <h4> Frontend Technologies</h4>
 <span> 
@@ -31,17 +42,6 @@ I am a Frontend Developer from Argentina. I am always researching, learning and 
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </span>
 
-
-### 💻 I'm always working on:
-- Improving my skills
-
-### 📚 I want to learn:
-- TypeScript
-<!-- ### 😃 Hobbies:
-- Spending quality time with my family💕​
-- Playing Video Games🎮​
-- Watch movies and series🍿
- -->
 ### 📌 Contact me at:
 - e-mail: mateo.bertello@gmail.com
 - <a href="https://www.linkedin.com/in/mateo-bertello/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
