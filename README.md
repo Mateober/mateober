@@ -10,7 +10,7 @@
 
 I'm a **Full-Stack Developer** focused on **frontend** and based in **Rosario, Argentina**. I’m passionate about building intuitive, scalable, and user-centric web applications.
 
-- 🧠 **Self-taught**, detail-oriented, and always curious.
+- 🧠 **Self-taught**, detail-oriented, and responsible.
 - 🚀 Love turning ideas into clean, pixel-perfect interfaces.
 - 🛠️ Working with **React, Astro, Node.js**, and more.
 
