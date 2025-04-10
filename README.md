@@ -79,7 +79,3 @@ I'm a **Full-Stack Developer** focused on **frontend** and based in **Rosario, A
 [![Portfolio](https://img.shields.io/badge/portfolio-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Mateober)
 [![Resume](https://img.shields.io/badge/resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Mateober/tu-repo/main/assets/CV-Mateo-Bertello.pdf&embedded=true)
 
-<a href="https://linkedin.com/in/mateo-bertello/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-</a>
-
