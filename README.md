@@ -77,6 +77,6 @@ I'm a **Full-Stack Developer** focused on **frontend** and based in **Rosario, A
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mateo-bertello/)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mateober)
 [![Portfolio](https://img.shields.io/badge/portfolio-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Mateober)
-[![View Resume](https://img.shields.io/badge/resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello.pdf)
-[![Download Resume](https://img.shields.io/badge/resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello.pdf)
+[![Resume](https://img.shields.io/badge/resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello.pdf)
+[![Resume](https://img.shields.io/badge/resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello.pdf)
 
