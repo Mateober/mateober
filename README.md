@@ -78,4 +78,8 @@ I'm a **Full-Stack Developer** focused on **frontend** and based in **Rosario, A
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mateober)
 [![Portfolio](https://img.shields.io/badge/portfolio-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Mateober)
 [![Resume](https://img.shields.io/badge/resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello.pdf)
+<a href="assets/CV-Mateo-Bertello.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver CV">
+</a>
+
 
