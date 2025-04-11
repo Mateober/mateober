@@ -80,3 +80,8 @@ I'm a **Full-Stack Developer** focused on **frontend** and based in **Rosario, A
 [![Resume](https://img.shields.io/badge/resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello.pdf)
 [![Resume](https://img.shields.io/badge/resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello.pdf)
 
+[![View Resume](https://img.shields.io/badge/View%20Resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello.pdf)
+
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-9acd32?style=for-the-badge&logo=readme&logoColor=white)](https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello.pdf)
+
+
