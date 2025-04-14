@@ -81,7 +81,7 @@ I'm a **Full-Stack Developer** focused on **frontend** and based in **Rosario, A
 [![View Resume](https://img.shields.io/badge/View%20Resume-006400?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello-EN.pdf)
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-006400?style=for-the-badge&logo=readme&logoColor=white)](https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello-EN.pdf)
 
-[![Previsualizar CV](https://img.shields.io/badge/View%20Resume-006400?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello-ES.pdf)
-[![Descargar CV](https://img.shields.io/badge/Download%20Resume-006400?style=for-the-badge&logo=readme&logoColor=white)](https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello-ES.pdf)
+[![Previsualizar CV](https://img.shields.io/badge/Previsualizar%20CV-006400?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello-ES.pdf)
+[![Descargar CV](https://img.shields.io/badge/Descargar%20CV-006400?style=for-the-badge&logo=readme&logoColor=white)](https://raw.githubusercontent.com/Mateober/mateober/main/assets/CV-Mateo-Bertello-ES.pdf)
 
 
